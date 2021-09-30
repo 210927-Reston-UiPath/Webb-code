@@ -1,0 +1,15 @@
+C:\revature\Webb-code\phonebookapp\helloworld2\bin\Debug\net6.0\helloworld2.exe
+C:\revature\Webb-code\phonebookapp\helloworld2\bin\Debug\net6.0\helloworld2.deps.json
+C:\revature\Webb-code\phonebookapp\helloworld2\bin\Debug\net6.0\helloworld2.runtimeconfig.json
+C:\revature\Webb-code\phonebookapp\helloworld2\bin\Debug\net6.0\helloworld2.dll
+C:\revature\Webb-code\phonebookapp\helloworld2\bin\Debug\net6.0\ref\helloworld2.dll
+C:\revature\Webb-code\phonebookapp\helloworld2\bin\Debug\net6.0\helloworld2.pdb
+C:\revature\Webb-code\phonebookapp\helloworld2\obj\Debug\net6.0\helloworld2.vbproj.AssemblyReference.cache
+C:\revature\Webb-code\phonebookapp\helloworld2\obj\Debug\net6.0\helloworld2.GeneratedMSBuildEditorConfig.editorconfig
+C:\revature\Webb-code\phonebookapp\helloworld2\obj\Debug\net6.0\helloworld2.AssemblyInfoInputs.cache
+C:\revature\Webb-code\phonebookapp\helloworld2\obj\Debug\net6.0\helloworld2.AssemblyInfo.vb
+C:\revature\Webb-code\phonebookapp\helloworld2\obj\Debug\net6.0\helloworld2.vbproj.CoreCompileInputs.cache
+C:\revature\Webb-code\phonebookapp\helloworld2\obj\Debug\net6.0\helloworld2.dll
+C:\revature\Webb-code\phonebookapp\helloworld2\obj\Debug\net6.0\ref\helloworld2.dll
+C:\revature\Webb-code\phonebookapp\helloworld2\obj\Debug\net6.0\helloworld2.pdb
+C:\revature\Webb-code\phonebookapp\helloworld2\obj\Debug\net6.0\helloworld2.genruntimeconfig.cache
