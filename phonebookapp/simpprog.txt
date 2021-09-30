@@ -1,0 +1,26 @@
+Import System
+
+Module Program 
+    sub Main(args As String())
+        Console.WriteLine("Hello World!")
+        dim repeat As Boolean = true
+        Do While repeat
+            Console.WriteLine("what would you like to do?")
+            Console.WriteLine("[0] Say Hello")
+            Console.WriteLine(" Exit")
+            dim input As String = Console.ReadLine()
+            Select Case input
+                Case "0"
+                    Console.WriteLine("Hello")
+                Case "1"
+                    Console.writeline("Goodbye")
+                    reapeat = False
+                            
+        End While
+    End Public  Sub (Main)
+    
+    End Sub
+
+End Module
+
+        
